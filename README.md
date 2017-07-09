@@ -1,4 +1,4 @@
-#RatioCount
+# RatioCount
 
 ### 项目简介
 比例计算，输入比例后可以快速算出某一对应比例
